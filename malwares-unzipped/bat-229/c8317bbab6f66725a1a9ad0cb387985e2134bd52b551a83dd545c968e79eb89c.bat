@@ -1,0 +1,1 @@
+@start RunDll32 sul7npe.dll,#1
