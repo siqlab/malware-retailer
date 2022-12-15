@@ -1,1 +1,0 @@
-ORDER-PURCHASE.sfx.exe -p39738406 -d%temp%

